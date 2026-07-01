@@ -1,27 +1,75 @@
-🎓 Computer Engineering Lab Tasks – IIUI
+# C++ Programming
 
-This repository contains my programming lab work and assignments from the 4th semester of my Computer Engineering degree at IIUI. The primary purpose of this repository is to bridge the gap between theoretical concepts and practical implementation by converting academic tasks into working code.
+Welcome to my C++ Programming repository.
 
-Through this work, I aim to strengthen my problem-solving abilities, improve logical thinking, and build a solid foundation in programming.
+This repository documents my learning journey in C++ through hands-on practice, programming exercises, academic assignments, data structures, and small projects. It is designed to organize my work while continuously improving my programming skills, problem-solving ability, and understanding of software development concepts.
 
-📁 Repository Structure
-🔹 C++ Fundamental Tasks
+As I continue learning, this repository will grow with new topics, coding challenges, and practical implementations.
 
-This section covers core C++ concepts such as loops, functions, and arrays. It includes both the problem statements (in PDF format) and their corresponding implementations.
+## Repository Structure
 
-🔹 Object-Oriented Programming (OOP) Tasks
+### 📘 C++ Fundamentals
 
-This section focuses on advanced programming concepts including classes, inheritance, and polymorphism. Each task is implemented with a practical approach to better understand object-oriented design.
+Practice programs covering the core concepts of C++, including:
 
-🛠️ Tools & Technologies
-Programming Language: C++
-IDE: Visual Studio Code
-Version Control: Git & GitHub
-Operating System: Windows 10
-🎯 Goals
- Convert all 28 C++ lab tasks into fully functional code
- Expand the repository by adding Data Structures & Algorithms (DSA) tasks
- Build a strong and professional programming portfolio
-🚀 Purpose of This Repository
+- Variables & Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Arrays
+- Pointers
+- Structures
+- File Handling
+- Basic Programming Logic
 
-This repository reflects my continuous learning journey in software development. It serves not only as a collection of academic work but also as a step toward developing clean coding practices and a professional coding profile.
+### 🏗 Object-Oriented Programming (OOP)
+
+Programs demonstrating object-oriented programming concepts, including:
+
+- Classes & Objects
+- Constructors & Destructors
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Operator Overloading
+- Exception Handling
+
+### 📊 Data Structures & Algorithms (DSA)
+
+This section contains implementations of fundamental data structures and algorithms, along with practice problems to strengthen problem-solving skills.
+
+Topics will continue expanding as I progress in my learning.
+
+### 🚀 Projects
+
+Small and practical C++ projects built to apply programming concepts in real-world scenarios and improve software development experience.
+
+## Technologies
+
+- C++
+- Visual Studio Code
+- Git
+- GitHub
+- Windows
+
+## Skills
+
+- C++ Programming
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Problem Solving
+- Programming Logic
+- Debugging
+- Clean Code
+- Version Control (Git)
+- GitHub
+
+---
+
+## Purpose
+
+The purpose of this repository is to document my progress, organize my programming practice, and build a strong foundation in C++ and software development.
+
+I regularly update this repository with new practice programs, assignments, coding exercises, DSA implementations, and projects as I continue learning.
